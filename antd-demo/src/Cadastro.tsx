@@ -17,7 +17,7 @@ const SignUp = () => {
         height: '100vh',
         //backgroundColor: '#f0f2f5'
 
-        backgroundImage: 'url(https://cdn.discordapp.com/attachments/894662134062018572/1303068569071915039/1303066019983527946remix-1730746148271.png?ex=672a68ac&is=6729172c&hm=21db219529f4cc2a6f9cd56b9a379a325241d61cccd950824b3137b5cb5408d0&)', // URL da imagem de fundo
+        backgroundImage: 'url(https://raw.githubusercontent.com/Igor-jair/2024-react-ui-libs/refs/heads/main/antd-demo/public/IMG-20241108-WA0011.jpg)', // URL da imagem de fundo
         backgroundSize: 'cover', // Faz a imagem cobrir todo o fundo
         backgroundPosition: 'top', // Centraliza a imagem
       }}>
